@@ -1,0 +1,6 @@
+<?php
+  include_once "header.php";
+  include_once $pageName.'.php';
+  include_once "footer.php";
+  var_dump($pageName);
+?>
